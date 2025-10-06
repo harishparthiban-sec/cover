@@ -61,7 +61,7 @@ cover.html
              </div>
              <br><hr>
               <div class="name">
-                HARISH P
+                HARISH P(25015017)
                 </div>
                 <div class="bottom">
                     SEC
@@ -148,7 +148,7 @@ body{
 ```
 
 ## OUTPUT:
-![alt text](MyBook.png)
+![alt text](<Screenshot (54).png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
